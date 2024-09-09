@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlenaLutsenko
-- 👀 I’m interested in finding a job as a QA specialist.
-- 🌱 I’m currently learning manual QA, Javascript, R, Python and SQL.
+- 👀 I’m working as Manual QA for 2 years.
+- 🌱 I’m currently Python and SQL.
 - 💞️ I’m looking to collaborate in teams that work on SW development, data science, AI. My previos job related to psychology and neuroscience. 
 - 📫 How to reach me: olena.lutsenko.qa@gmail.com
 
