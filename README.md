@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlenaLutsenko
-- 👀 I’m working as Manual QA for 2 years.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate in teams that work on SW development, data science, AI. My previos job related to psychology and neuroscience. 
+- 👀 I’m working as Manual QA in Healthcare IT for more than 3 years.
+- 🌱 Passionate about continuous learning and actively expanding my expertise in software testing and data analytics (SQL, Python, Power BI, Tableau, Excel, BigQuery).
+- 💞️ I have experience working with quantitative/qualitative research methods, behavioral data analysis, test development and validation, healthcare workflows, and software testing processes.
 - 📫 How to reach me: olena.lutsenko.qa@gmail.com
 
 <!---
