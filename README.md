@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @OlenaLutsenko
-- 👀 I’m working as Manual QA in Healthcare IT for more than 3 years.
-- 🌱 Passionate about continuous learning and actively expanding my expertise in software testing and data analytics (SQL, Python, Power BI, Tableau, Excel, BigQuery).
-- 💞️ I have experience working with quantitative/qualitative research methods, behavioral data analysis, test development and validation, healthcare workflows, and software testing processes.
-- 📫 How to reach me: olena.lutsenko.qa@gmail.com
+👋 Hi, I'm @OlenaLutsenko
+
+🔬 Researcher and analyst with 20+ years of experience in psychology and psychometrics.
+
+💻 Worked as a Manual QA Engineer in Healthcare IT for 3 years and 8 months.
+
+📊 Interested in data analysis, Python, SQL, statistical modeling, and cross-cultural research.
+
+🌱 Currently building a portfolio of analytics and research projects using Python.
+
+📫 How to reach me: olena.lutsenko.qa@gmail.com
 
 <!---
 OlenaLutsenko/OlenaLutsenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
