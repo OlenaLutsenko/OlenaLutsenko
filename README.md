@@ -4,7 +4,7 @@
 
 💻 Worked as a Manual QA Engineer in Healthcare IT for 3 years and 8 months.
 
-📊 Interested in data analysis, Python, SQL, statistical modeling, and cross-cultural research.
+📊 Interested in data analysis, Python, SQL, statistical modeling, and psychological research.
 
 🌱 Currently building a portfolio of analytics and research projects using Python.
 
